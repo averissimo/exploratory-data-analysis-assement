@@ -1,3 +1,5 @@
 ## Sample repository for data analysis exercise
 
-The jupyter notebook contains the analysis created based of the train and test files.
+The jupyter notebook contains the exploratory analysis created based on the data files.
+
+A prediction on the test set is given under `predictions` folder _(for each model used)_

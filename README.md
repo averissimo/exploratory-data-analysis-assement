@@ -10,5 +10,5 @@ A prediction on the test set is given under `predictions` folder _(for each mode
 
 ### Presentation
 
-[Link to google slides](https://docs.google.com/presentation/d/1Ee20L17BAnOQ50GT0Q7bfXcapHIXnkXM3hfQ5ulD6RA/edit#slide=id.gf3d278d529_0_90)
+[Link to google slides](https://docs.google.com/presentation/d/1Ee20L17BAnOQ50GT0Q7bfXcapHIXnkXM3hfQ5ulD6RA/edit?usp=sharing)
 
